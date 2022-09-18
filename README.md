@@ -1,0 +1,2 @@
+# CSharpHSE
+University C# projects
